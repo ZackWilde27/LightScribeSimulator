@@ -48,7 +48,9 @@ I imagine the engineers at HP would've thought of this so maybe there's some cri
 <br>
 
 ## Using the script
-Replace ```lightscribe.png``` with your own image that you want 'burned' onto the 'disc'. Unlike real LightScribe my simulator supports full-colour images
+You'll need PyGame to run the script, instructions for installing it can be found [here](https://www.pygame.org/wiki/GettingStarted)
+
+Replace ```lightscribe.png``` with your own 512x512 image that you want 'burned' onto the 'disc'. Unlike real LightScribe my simulator supports full-colour images
 
 Settings can be tweaked in the script, I've added descriptions to each variable to describe what it does
 
