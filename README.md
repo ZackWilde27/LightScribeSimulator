@@ -57,7 +57,7 @@ Settings can be tweaked in the script, I've added descriptions to each variable 
 <br>
 
 ### Getting a complete image
-Getting a full image while being able to see the burning process takes almost as long as burning a real disc, as the speed of the disc (and thus how quickly the image is burned onto it) needs to be slower than the code runs
+Getting a full image while being able to see the burning process takes almost as long as burning a real disc, as the speed of the disc (and thus how quickly the image is burned onto it) needs to match the speed the code runs
 
 *You'll have to edit the code a bit if you don't care about seeing the burning happen in real-time and just want it done as quickly as possible, I left instructions for that in the script itself*
 
